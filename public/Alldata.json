@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1001,
+    "title": "Login Issue",
+    "description": "User unable to login with correct credentials.",
+    "customer": "John Doe",
+    "priority": "High",
+    "status": "In-Progress",
+    "createdAt": "20/09/2025"
+  },
+  {
+    "id": 1002,
+    "title": "UI Bug on Dashboard",
+    "description": "Misalignment in dashboard widgets on mobile view.",
+    "customer": "Robert Brown",
+    "priority": "Low",
+    "status": "In-Progress",
+    "createdAt": "19/09/2025"
+  },
+  {
+    "id": 1003,
+    "title": "Slow Website",
+    "description": "The website takes more than 10 seconds to load.",
+    "customer": "Michael",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "17/09/2025"
+  },
+  {
+    "id": 1004,
+    "title": "Payment Failure",
+    "description": "Transaction not going through for credit card users.",
+    "customer": "Alice Smith",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "21/09/2025"
+  },
+  {
+    "id": 1005,
+    "title": "Refund Request",
+    "description": "Customer requesting refund for failed service.",
+    "customer": "Olivia ",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "14/09/2025"
+  },
+  {
+    "id": 1006,
+    "title": "Password Reset Issue",
+    "description": "Password reset link not being received by email.",
+    "customer": "Charlotte ",
+    "priority": "Medium",
+    "status": "In-Progress",
+    "createdAt": "12/09/2025"
+  },
+  {
+    "id": 1007,
+    "title": "Email Not Sending",
+    "description": "Automated email notifications are not being delivered.",
+    "customer": "Sophia ",
+    "priority": "High",
+    "status": "In-Progress",
+    "createdAt": "18/09/2025"
+  },
+  {
+    "id": 1008,
+    "title": "Search Not Working",
+    "description": "Search results are empty even for valid keywords.",
+    "customer": "Amelia Jeso",
+    "priority": "Low",
+    "status": "In-Progress",
+    "createdAt": "10/09/2025"
+  },
+  {
+    "id": 1009,
+    "title": "File Upload Failed",
+    "description": "Large file upload is failing with timeout error.",
+    "customer": "James Ram",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "11/09/2025"
+  },
+  {
+    "id": 1010,
+    "title": "App Crash on iOS",
+    "description": "iOS app crashes immediately on launch.",
+    "customer": "David Lee",
+    "priority": "High",
+    "status": "In-Progress",
+    "createdAt": "15/09/2025"
+  },
+  {
+    "id": 1011,
+    "title": "Account Locked",
+    "description": "Customer account locked after multiple login attempts.",
+    "customer": "Emma Davis",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "16/09/2025"
+  },
+  {
+    "id": 1012,
+    "title": "Chat Support Not Working",
+    "description": "Live chat support is not loading on website.",
+    "customer": "Liam Garcia",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "13/09/2025"
+  }
+]
