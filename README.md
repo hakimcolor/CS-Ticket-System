@@ -5,6 +5,7 @@
 🌐 **Live Site:**  
 [https://stupendous-platypus-4334f7.netlify.app/](https://stupendous-platypus-4334f7.netlify.app/)  
 
+
 📦 **GitHub Repository:**  
 [https://github.com/hakimcolor/CS-Ticket-System](https://github.com/hakimcolor/CS-Ticket-System)  
 
@@ -49,4 +50,16 @@ The project is built using **HTML, CSS, JavaScript, Tailwind CSS, Flex/Grid layo
 ---
 
 ## 📂 Project Structure (Simplified)
+
+---
+
+## 🧑‍💻 How to Clone & Run Locally
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/hakimcolor/CS-Ticket-System.git
+npm install
+npm run dev
+http://localhost:5500
+
 
